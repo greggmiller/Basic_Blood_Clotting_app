@@ -14,7 +14,7 @@ It would be useful to have this in the cross-skilling section of the app.
 
 The main objectives of the app are to simplify the interpretation of the ROTEM results for patients and ease the cognitive load of anaesthetists and theatre staff during  a major haemorrhage which can be a resource-intensive crisis. The interpretation of results are currently based on a graphical algorithm which can be challenging to interpret in such circumstances or to those who are not familiar with it, such as rotating anaesthetic registrars.
 
-ObsAlgorithm.jpg
+'images/ObsAlgorithm.jpg'
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
