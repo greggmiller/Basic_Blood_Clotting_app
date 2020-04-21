@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'ROTEMFastInterpretation.dart';
 import 'constants.dart';
-import 'resusable_card.dart';
 import 'Fast_Answer_Button.dart';
 import 'Results_Card.dart';
-import 'ROTEM_calculator.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 
 //TODO: create Fast results answers list as per WHROTEMv2 style

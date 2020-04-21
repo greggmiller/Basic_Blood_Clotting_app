@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'main.dart';
 import 'package:photo_view/photo_view.dart';
 
 class FCpng extends StatefulWidget {

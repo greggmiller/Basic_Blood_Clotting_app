@@ -1,10 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'constants.dart';
-import 'main.dart';
 import 'Page_Obs_Algorithm.dart';
 import 'Page_Gen_Algorithm.dart';
-import 'resusable_card.dart';
 
 class ROTEMalgorithms extends StatefulWidget {
   @override

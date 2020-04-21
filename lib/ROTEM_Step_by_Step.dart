@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'constants.dart';
 import 'question_bank.dart';
-import 'main.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 
 QuestionBank quizBrain = QuestionBank();
